@@ -1,0 +1,118 @@
+body{
+	background-color: black;
+	font-family: cursive;
+	font-size: 0.8em;
+	margin: 0;
+	background: url(img/church2.jpg);
+	background-size: cover;
+
+}
+.container{
+	padding-top: 0px;
+	width: 80%;
+	margin: auto;
+	background: url(img/church1.jpg);
+}
+.header li{
+	display: inline;
+	margin-left: 170px;
+}
+.nav{
+	/*background: pink;*/
+	min-height: 50px;
+	padding-top: 10px;
+}
+.nav li{
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+.nav li a{
+	text-decoration: none;
+	color: white;
+}
+.nav li a:hover{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #811c1c;
+}
+.showroom img{
+	size: cover;
+	width: 80%;
+	height: 450px;
+	margin-left: 120px;
+}
+.content1{text-align: center;}
+.content2_main{
+	padding: 10px;
+}
+.content2a{
+	width: 30%;
+	float: left;
+	padding: 15px;
+	border-right: solid 1px grey;
+}
+.content2b{
+	width: 30%;
+	float: left;
+	padding: 15px;
+	border-right: solid 1px grey;
+}
+.content2c{
+	width: 30%;
+	float: left;
+	padding: 15px;
+}
+#creative{color: yellow;}
+#urban{color:blue;}
+#worship{color: green;}
+.footer_links li{
+	display: inline;
+	margin-left: 150px;
+}
+.clearer{
+	clear: both;
+}
+.footer{
+	background: #ccc5c5;
+	min-height: 2.5em;
+}
+.footer_main{
+	margin-top: 30px;
+	min-height: 230px;
+	background: brown;
+}
+.footer_contacts{
+	color: white;
+	float: left;
+	padding-right: 15px;
+}
+.footer_contacts ul{
+	list-style: none;
+	padding: 5px;
+}
+.footer_contacts li{
+	padding: 5px;
+}
+.footer_comments{
+	color: white;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-left: solid 1px grey;
+	border-right: solid 1px grey;
+}
+#find_more{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
